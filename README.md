@@ -1,4 +1,4 @@
- Hello 👋 , I’m Shashwat Samadhiya
+ <h2> Hello 👋 , I’m Shashwat Samadhiya </h2>
  <h3>About me :mag_right:</h3>
   <p> I'm a programmer who enjoys problem-solving and tries to create something new</p>
   <p> I’m interested in  AI and blockchain :open_file_folder: </p>
