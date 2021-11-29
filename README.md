@@ -19,6 +19,7 @@
   
   <h3>Contact me :speech_balloon:</h3>
   <a href="mailto:sshashwat934@gmail.com">Gmail</a>
+  <br>
   <a href="https://www.linkedin.com/in/shashwat-samadhiya-4a7aa61a0/">Linked In</a>
 
 
