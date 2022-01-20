@@ -8,10 +8,10 @@
   Data Structures , Algorithms , Problem solving, Full-stack Web Developer
   
  <h4>Launguage</h4>
-  C++ , C , Javascript , SQL 
+  C++ , C , Javascript , python
   
   <h5>Technologies</h5>
-  NodeJs , ReactJS , MongoDB ,Mongoose, ejs , Rest Api
+  NodeJs , ReactJS , MongoDB ,Mongoose, ejs , Rest Api , SQL
   
   <h4>Tools</h4>
   Git , Github , VS Code,Atom, Heroku
